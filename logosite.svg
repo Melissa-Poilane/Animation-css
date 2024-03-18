@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_7" data-name="Calque 7" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 49.18 48.84">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #6bdddd;
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <g id="LOGOSITE">
+    <path id="L3" class="cls-1" d="m24.55,0L0,24.55l24.97,24.29,24.2-24.2L24.55,0Zm-9.13,24.6l9.13-9.14,9.18,9.18-9.01,9.01-9.3-9.05Z"/>
+    <circle id="CENTRE" class="cls-1" cx="24.66" cy="24.54" r=".34"/>
+  </g>
+</svg>
